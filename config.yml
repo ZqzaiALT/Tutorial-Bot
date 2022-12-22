@@ -1,0 +1,4 @@
+token: "BOT_TOKEN"
+prefix: "BOT_PREFIX"
+status: "NONE"
+embed_colour: "EMBED_COLOUR"
